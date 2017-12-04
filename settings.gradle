@@ -1,0 +1,1 @@
+include ':app', ':lib-router-annotation', ':lib-router-processor', ':li-router-api'
